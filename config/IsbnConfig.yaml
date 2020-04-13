@@ -1,0 +1,8 @@
+#yaml config of ISBN query API 
+
+host : 'http://feedback.api.juhe.cn'
+path : '/ISBN'
+method : 'GET'
+#appcode purchased
+appkey : 'dbe72acdd0800b35365441eef9334c4b'
+

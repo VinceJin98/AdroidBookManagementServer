@@ -1,0 +1,452 @@
+2020-04-10 19:47:53,368 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-10 19:47:54,752 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-10 19:47:54,857 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-10 19:47:54,898 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-10 20:05:07,341 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Controller\\BookController.py', reloading
+2020-04-10 20:05:07,397 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-10 20:05:09,266 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-10 20:05:09,344 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-10 20:05:09,387 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-10 20:26:04,510 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-10 20:26:06,014 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-10 20:26:06,090 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-10 20:26:06,125 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-10 20:26:36,062 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\main.py', reloading
+2020-04-10 20:26:36,092 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-10 20:43:30,993 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-10 20:43:32,358 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-10 20:43:32,465 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-10 20:43:32,498 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-10 20:46:18,686 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\main.py', reloading
+2020-04-10 20:46:18,716 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-10 20:46:20,550 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-10 20:46:20,628 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-10 20:46:20,667 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 00:48:19,213 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\ISBNQuery.py', reloading
+2020-04-11 00:48:19,510 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 00:48:22,026 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 00:48:22,129 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 00:48:22,194 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:06:59,114 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:06:59] "[35m[1mGET /book/upload?isbn=9787302512608 HTTP/1.1[0m" 500 -
+2020-04-11 01:07:39,065 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Controller\\BookController.py', reloading
+2020-04-11 01:07:39,114 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:07:40,996 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:07:41,062 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:07:41,098 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:07:42,807 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:07:42] "[35m[1mGET /book/upload?isbn=9787302512608 HTTP/1.1[0m" 500 -
+2020-04-11 01:09:26,827 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Controller\\BookController.py', reloading
+2020-04-11 01:09:26,882 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:09:28,771 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:09:28,841 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:09:28,876 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:09:34,390 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:09:34] "[37mGET /book/upload?isbn=9787302512608 HTTP/1.1[0m" 200 -
+2020-04-11 01:10:04,782 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:10:04] "[37mGET /book/upload?isbn=9787111453833 HTTP/1.1[0m" 200 -
+2020-04-11 01:11:38,700 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:11:38] "[37mGET /book/upload?=9787302512608 HTTP/1.1[0m" 200 -
+2020-04-11 01:11:53,422 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:11:54,836 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:11:54,896 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:11:54,952 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:13:18,847 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:13:18] "[37mGET /book/upload?=9787302492238 HTTP/1.1[0m" 200 -
+2020-04-11 01:14:07,704 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\ISBNQuery.py', reloading
+2020-04-11 01:14:07,747 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:14:09,391 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:14:09,460 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:14:09,497 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:14:12,598 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:14:14,001 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:14:14,062 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:14:14,096 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:14:18,240 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:14:18] "[37mGET /book/upload?=9787302492238 HTTP/1.1[0m" 200 -
+2020-04-11 01:14:38,678 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\ISBNQuery.py', reloading
+2020-04-11 01:14:38,713 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:14:40,328 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:14:40,409 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:14:40,456 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:14:43,412 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:14:44,827 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:14:44,891 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:14:44,927 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:18:21,884 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:18:23,673 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:18:23,742 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:18:23,778 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:18:28,499 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:18:28] "[37mGET /book/upload?=9787302492238 HTTP/1.1[0m" 200 -
+2020-04-11 01:19:49,138 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Model\\BookModel.py', reloading
+2020-04-11 01:19:49,193 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:19:50,996 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:19:51,070 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:19:51,110 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:19:57,205 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:19:57] "[37mGET /book/upload?=9787302492238 HTTP/1.1[0m" 200 -
+2020-04-11 01:20:06,751 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:20:08,406 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:20:08,501 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:20:08,547 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:20:10,136 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:20:10] "[37mGET /book/upload?=9787302492238 HTTP/1.1[0m" 200 -
+2020-04-11 01:21:15,841 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:21:15] "[37mGET /book/upload?isbn=9787302492238 HTTP/1.1[0m" 200 -
+2020-04-11 01:21:37,561 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\ISBNQuery.py', reloading
+2020-04-11 01:21:37,600 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:21:39,460 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:21:39,549 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:21:39,591 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:24:59,114 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Model\\BookModel.py', reloading
+2020-04-11 01:24:59,167 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:25:01,097 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:25:01,169 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:25:01,216 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:25:57,515 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Model\\BookModel.py', reloading
+2020-04-11 01:25:57,555 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:25:59,797 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:25:59,877 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:25:59,916 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:26:26,938 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\ISBNQuery.py', reloading
+2020-04-11 01:26:26,967 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:26:28,575 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:26:28,649 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:26:28,684 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:27:24,426 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\ISBNQuery.py', reloading
+2020-04-11 01:27:24,460 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:27:26,471 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:27:26,546 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:27:26,580 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:27:29,633 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:27:30,989 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:27:31,049 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:27:31,082 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:27:34,900 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:27:34] "[37mGET /book/upload?isbn=9787302492238 HTTP/1.1[0m" 200 -
+2020-04-11 01:28:26,251 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Model\\BookModel.py', reloading
+2020-04-11 01:28:26,295 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:28:28,307 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:28:28,378 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:28:28,416 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:28:33,705 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:28:33] "[37mGET /book/upload?isbn=9787302492238 HTTP/1.1[0m" 200 -
+2020-04-11 01:29:52,653 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:29:52] "[37mGET /book/upload?isbn=9787302492238 HTTP/1.1[0m" 200 -
+2020-04-11 01:31:20,624 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Model\\BookModel.py', reloading
+2020-04-11 01:31:20,680 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:31:22,833 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:31:22,948 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:31:22,999 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:31:25,500 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:31:25] "[37mGET /book/upload?isbn=9787302492238 HTTP/1.1[0m" 200 -
+2020-04-11 01:32:50,517 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\DataBaseIneraction.py', reloading
+2020-04-11 01:32:50,563 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:32:52,277 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:32:52,360 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:32:52,398 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:33:03,314 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:33:03] "[37mGET /book/upload?isbn=9787302492238 HTTP/1.1[0m" 200 -
+2020-04-11 01:33:39,963 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:33:39] "[37mGET /book/upload?isbn=9787302492238&userId=5 HTTP/1.1[0m" 200 -
+2020-04-11 01:34:40,823 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\DataBaseIneraction.py', reloading
+2020-04-11 01:34:40,862 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:34:43,005 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:34:43,074 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:34:43,114 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:34:46,217 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:34:46] "[37mGET /book/upload?isbn=9787302492238&userId=5 HTTP/1.1[0m" 200 -
+2020-04-11 01:35:02,616 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:35:02] "[37mGET /book/upload?isbn=9787302492238&userId=5 HTTP/1.1[0m" 200 -
+2020-04-11 01:36:04,224 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:36:04] "[37mGET /book/upload?isbn=9787302492238&userId=5 HTTP/1.1[0m" 200 -
+2020-04-11 01:38:42,295 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Model\\BookModel.py', reloading
+2020-04-11 01:38:42,341 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:38:44,135 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:38:44,218 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:38:44,265 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:38:51,819 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:38:53,227 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:38:53,287 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:38:53,329 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:38:58,129 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:38:58] "[37mGET /book/upload?isbn=9787302492238&userId=5 HTTP/1.1[0m" 200 -
+2020-04-11 01:40:13,468 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\DataBaseIneraction.py', reloading
+2020-04-11 01:40:13,506 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:40:15,288 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:40:15,359 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:40:15,400 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:41:52,483 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\DataBaseIneraction.py', reloading
+2020-04-11 01:41:52,530 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:42:05,723 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:42:07,162 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:42:07,231 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:42:07,269 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:42:10,691 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:42:10] "[37mGET /book/upload?isbn=9787302492238&userId=5 HTTP/1.1[0m" 200 -
+2020-04-11 01:43:54,102 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\DataBaseIneraction.py', reloading
+2020-04-11 01:43:54,147 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:43:56,028 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:43:56,168 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:43:56,230 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:43:59,198 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:43:59] "[37mGET /book/upload?isbn=9787302492238&userId=5 HTTP/1.1[0m" 200 -
+2020-04-11 01:44:57,369 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:44:57] "[37mGET /book/upload?isbn=9787111453833&userId=5 HTTP/1.1[0m" 200 -
+2020-04-11 01:46:00,061 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\DataBaseIneraction.py', reloading
+2020-04-11 01:46:00,097 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:47:32,435 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:47:33,757 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:47:33,817 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:47:33,852 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:47:37,805 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:47:37] "[37mGET /book/upload?isbn=9787111453833&userId=5 HTTP/1.1[0m" 200 -
+2020-04-11 01:54:47,303 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\ISBNQuery.py', reloading
+2020-04-11 01:54:47,376 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 01:54:49,217 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 01:54:49,283 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 01:54:49,323 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 01:54:58,538 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:54:58] "[37mGET /book/upload?isbn=9787111453833&userId=5 HTTP/1.1[0m" 200 -
+2020-04-11 01:56:42,041 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:56:42] "[37mGET /book/upload?isbn=9787111453833&userId=5 HTTP/1.1[0m" 200 -
+2020-04-11 01:57:30,485 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 01:57:30] "[37mGET /book/upload?isbn=9787111453833&userId=5 HTTP/1.1[0m" 200 -
+2020-04-11 02:00:33,349 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Model\\ISBNBookModel.py', reloading
+2020-04-11 02:00:33,423 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 02:00:35,879 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 02:00:36,001 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 02:00:36,053 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 02:00:54,013 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Model\\BookModel.py', reloading
+2020-04-11 02:00:54,058 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 02:00:56,188 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 02:00:56,331 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 02:00:56,395 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 02:00:59,242 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Controller\\BookController.py', reloading
+2020-04-11 02:00:59,313 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 02:01:01,526 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 02:01:01,620 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 02:01:01,671 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 02:01:08,286 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 02:01:08] "[37mGET /book/upload?isbn=9787111453833&userId=5 HTTP/1.1[0m" 200 -
+2020-04-11 02:01:25,482 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 02:01:27,254 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 02:01:27,331 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 02:01:27,374 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 02:01:32,712 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 02:01:32] "[37mGET /book/upload?isbn=9787111453833&userId=5 HTTP/1.1[0m" 200 -
+2020-04-11 02:02:40,874 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 02:02:42,683 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 02:02:42,758 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 02:02:42,823 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 02:02:45,277 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 02:02:45] "[37mGET /book/upload?isbn=9787111453833&userId=5 HTTP/1.1[0m" 200 -
+2020-04-11 02:02:52,364 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 02:02:52] "[37mGET /book/upload?isbn=9787111453833&userId=5 HTTP/1.1[0m" 200 -
+2020-04-11 02:02:56,459 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 02:02:56] "[37mGET /book/upload?isbn=9787111453833&userId=5 HTTP/1.1[0m" 200 -
+2020-04-11 02:06:28,074 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Model\\BookModel.py', reloading
+2020-04-11 02:06:28,136 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 02:14:49,612 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 02:14:51,521 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 02:14:51,638 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 02:14:51,693 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 02:15:03,112 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 02:15:03] "[35m[1mGET /book/uploadisbn?isbn=9787111453833 HTTP/1.1[0m" 500 -
+2020-04-11 02:15:32,837 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Controller\\BookController.py', reloading
+2020-04-11 02:15:32,876 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 02:15:34,938 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 02:15:35,068 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 02:15:35,132 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 02:15:38,448 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 02:15:38] "[35m[1mGET /book/uploadisbn?isbn=9787111453833 HTTP/1.1[0m" 500 -
+2020-04-11 02:19:03,586 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Controller\\BookController.py', reloading
+2020-04-11 02:19:03,629 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 02:19:05,740 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 02:19:05,843 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 02:19:05,884 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 02:20:46,973 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\View\\BookView.py', reloading
+2020-04-11 02:20:47,016 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 02:20:49,199 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 02:20:49,271 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 02:20:49,309 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 02:21:09,236 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\ISBNQuery.py', reloading
+2020-04-11 02:21:09,271 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 02:21:11,606 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 02:21:11,704 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 02:21:11,745 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 02:22:14,535 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\ISBNQuery.py', reloading
+2020-04-11 02:22:14,616 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 02:22:16,517 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 02:22:16,612 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 02:22:16,662 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 02:22:21,043 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 02:22:21] "[35m[1mGET /book/uploadisbn?isbn=9787111453833 HTTP/1.1[0m" 500 -
+2020-04-11 02:22:43,034 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\View\\BookView.py', reloading
+2020-04-11 02:22:43,099 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 02:22:44,957 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 02:22:45,042 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 02:22:45,088 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 02:23:26,881 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Controller\\BookController.py', reloading
+2020-04-11 02:23:26,922 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 02:23:28,737 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 02:23:28,820 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 02:23:28,865 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 02:24:25,582 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\ISBNQuery.py', reloading
+2020-04-11 02:24:25,625 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 02:24:27,922 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 02:24:28,017 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 02:24:28,065 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 02:24:33,101 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 02:24:33] "[35m[1mGET /book/uploadisbn?isbn=9787111453833 HTTP/1.1[0m" 500 -
+2020-04-11 02:27:19,452 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\DataBaseIneraction.py', reloading
+2020-04-11 02:27:19,556 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 02:27:21,969 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 02:27:22,067 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 02:27:22,111 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 02:56:08,961 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 02:56:08] "[37mGET /book/uploadisbn?isbn=9787111453833 HTTP/1.1[0m" 200 -
+2020-04-11 03:00:06,748 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Model\\ISBNBookModel.py', reloading
+2020-04-11 03:00:06,820 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 03:00:08,774 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 03:00:08,856 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 03:00:08,897 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 03:00:27,243 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 03:00:27] "[37mGET /book/uploadisbn?isbn=9787111453833 HTTP/1.1[0m" 200 -
+2020-04-11 03:04:43,835 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Model\\ISBNBookModel.py', reloading
+2020-04-11 03:04:43,881 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 03:04:46,367 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 03:04:46,447 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 03:04:46,516 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 03:04:47,072 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 03:04:47] "[35m[1mGET /book/uploadisbn?isbn=9787111453833 HTTP/1.1[0m" 500 -
+2020-04-11 03:05:15,463 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\View\\BookView.py', reloading
+2020-04-11 03:05:15,504 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 03:05:17,756 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 03:05:17,824 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 03:05:17,860 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 03:05:18,886 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 03:05:18] "[37mGET /book/uploadisbn?isbn=9787111453833 HTTP/1.1[0m" 200 -
+2020-04-11 03:23:41,629 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 03:23:41] "[37mGET /book/uploadisbn?isbn=978711145383312 HTTP/1.1[0m" 200 -
+2020-04-11 03:27:53,771 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 03:27:53] "[35m[1mGET /book/upload?isbn=97871114538331&userId=1&tag1=1&tag2=1&place=1&isGroupVisible=1&lend=0 HTTP/1.1[0m" 500 -
+2020-04-11 03:28:34,696 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\DataBaseIneraction.py', reloading
+2020-04-11 03:28:34,743 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 03:28:37,184 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 03:28:37,270 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 03:28:37,318 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 03:28:37,713 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 03:28:37] "[35m[1mGET /book/upload?isbn=97871114538331&userId=1&tag1=1&tag2=1&place=1&isGroupVisible=1&lend=0 HTTP/1.1[0m" 500 -
+2020-04-11 03:29:05,420 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 03:29:05] "[35m[1mGET /book/upload?isbn=9787111453833&userId=1&tag1=1&tag2=1&place=1&isGroupVisible=1&lend=0 HTTP/1.1[0m" 500 -
+2020-04-11 03:29:12,601 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 03:29:12] "[35m[1mGET /book/upload?isbn=978711145&userId=1&tag1=1&tag2=1&place=1&isGroupVisible=1&lend=0 HTTP/1.1[0m" 500 -
+2020-04-11 03:30:56,501 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Controller\\BookController.py', reloading
+2020-04-11 03:30:56,557 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 03:30:58,864 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 03:30:58,969 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 03:30:59,031 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 03:31:00,690 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 03:31:00] "[35m[1mGET /book/upload?isbn=978711145&userId=1&tag1=1&tag2=1&place=1&isGroupVisible=1&lend=0 HTTP/1.1[0m" 500 -
+2020-04-11 03:32:40,319 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\DataBaseIneraction.py', reloading
+2020-04-11 03:32:40,361 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 03:33:08,428 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 03:33:10,128 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 03:33:10,223 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 03:33:10,312 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 03:33:13,003 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 03:33:13] "[35m[1mGET /book/upload?isbn=978711145&userId=1&tag1=1&tag2=1&place=1&isGroupVisible=1&lend=0 HTTP/1.1[0m" 500 -
+2020-04-11 03:33:28,330 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 03:33:28] "[37mGET /user/register?userName=aaaa&passWord=bbbbb HTTP/1.1[0m" 200 -
+2020-04-11 03:34:39,449 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 03:34:39] "[35m[1mGET /book/upload?isbn=9787111453833&userId=1&tag1=1&tag2=1&place=1&isGroupVisible=1&lend=0 HTTP/1.1[0m" 500 -
+2020-04-11 03:39:58,427 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Model\\BookModel.py', reloading
+2020-04-11 03:39:58,467 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 03:40:00,166 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 03:40:00,268 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 03:40:00,308 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 03:40:26,927 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Model\\BookModel.py', reloading
+2020-04-11 03:40:26,978 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 03:40:29,326 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 03:40:29,431 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 03:40:29,491 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 03:40:29,724 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 03:40:29] "[35m[1mGET /book/upload?isbn=9787111453833&userId=1&tag1=1&tag2=1&place=1&isGroupVisible=1&lend=0 HTTP/1.1[0m" 500 -
+2020-04-11 03:42:04,369 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\DataBaseIneraction.py', reloading
+2020-04-11 03:42:04,416 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 03:42:07,244 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 03:42:07,343 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 03:42:07,394 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 03:42:08,718 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 03:42:08] "[35m[1mGET /book/upload?isbn=9787111453833&userId=1&tag1=1&tag2=1&place=1&isGroupVisible=1&lend=0 HTTP/1.1[0m" 500 -
+2020-04-11 03:42:56,817 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Model\\BookModel.py', reloading
+2020-04-11 03:42:56,852 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 03:42:59,176 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 03:42:59,293 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 03:42:59,384 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 03:43:00,130 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 03:43:00] "[35m[1mGET /book/upload?isbn=9787111453833&userId=1&tag1=1&tag2=1&place=1&isGroupVisible=1&lend=0 HTTP/1.1[0m" 500 -
+2020-04-11 03:43:09,072 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Model\\BookModel.py', reloading
+2020-04-11 03:43:09,110 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 03:43:11,365 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 03:43:11,483 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 03:43:11,532 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 03:43:47,025 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\DataBaseIneraction.py', reloading
+2020-04-11 03:43:47,063 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 03:43:49,520 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 03:43:49,651 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 03:43:49,698 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 03:43:51,427 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 03:43:51] "[35m[1mGET /book/upload?isbn=9787111453833&userId=1&tag1=1&tag2=1&place=1&isGroupVisible=1&lend=0 HTTP/1.1[0m" 500 -
+2020-04-11 03:44:36,147 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\DataBaseIneraction.py', reloading
+2020-04-11 03:44:36,194 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 03:44:38,672 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 03:44:38,827 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 03:44:38,887 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 03:44:39,524 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 03:44:39] "[35m[1mGET /book/upload?isbn=9787111453833&userId=1&tag1=1&tag2=1&place=1&isGroupVisible=1&lend=0 HTTP/1.1[0m" 500 -
+2020-04-11 03:45:35,162 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\DataBaseIneraction.py', reloading
+2020-04-11 03:45:35,201 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 03:45:37,651 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 03:45:37,767 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 03:45:37,823 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 03:45:39,359 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 03:45:39] "[35m[1mGET /book/upload?isbn=9787111453833&userId=1&tag1=1&tag2=1&place=1&isGroupVisible=1&lend=0 HTTP/1.1[0m" 500 -
+2020-04-11 03:46:06,913 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Model\\BookModel.py', reloading
+2020-04-11 03:46:06,954 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 03:46:09,243 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 03:46:09,378 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 03:46:09,420 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 03:46:10,687 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 03:46:10] "[35m[1mGET /book/upload?isbn=9787111453833&userId=1&tag1=1&tag2=1&place=1&isGroupVisible=1&lend=0 HTTP/1.1[0m" 500 -
+2020-04-11 03:46:46,356 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\DataBaseIneraction.py', reloading
+2020-04-11 03:46:46,399 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 03:46:48,502 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 03:46:48,594 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 03:46:48,644 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 03:46:52,997 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 03:46:52] "[35m[1mGET /book/upload?isbn=9787111453833&userId=1&tag1=1&tag2=1&place=1&isGroupVisible=1&lend=0 HTTP/1.1[0m" 500 -
+2020-04-11 03:48:21,358 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Model\\BookModel.py', reloading
+2020-04-11 03:48:21,399 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 03:48:23,122 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 03:48:23,205 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 03:48:23,249 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-11 03:48:30,260 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [11/Apr/2020 03:48:30] "[35m[1mGET /book/upload?isbn=9787111453833&userId=1&tag1=1&tag2=1&place=1&isGroupVisible=1&lend=0 HTTP/1.1[0m" 500 -
+2020-04-11 03:49:38,219 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\function\\DataBaseIneraction.py', reloading
+2020-04-11 03:49:38,260 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-11 03:49:41,448 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-11 03:49:41,591 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-11 03:49:41,653 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-13 14:19:17,231 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Controller\\BookController.py', reloading
+2020-04-13 14:19:17,531 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-13 14:19:19,809 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-13 14:19:19,898 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-13 14:19:19,954 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-13 14:24:42,506 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [13/Apr/2020 14:24:42] "[35m[1mGET /book/query?bookId HTTP/1.1[0m" 500 -
+2020-04-13 14:25:25,092 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Model\\BookModel.py', reloading
+2020-04-13 14:25:25,144 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-13 14:25:27,415 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-13 14:25:27,502 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-13 14:25:27,544 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-13 14:25:29,352 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [13/Apr/2020 14:25:29] "[35m[1mGET /book/query?bookId HTTP/1.1[0m" 500 -
+2020-04-13 14:26:10,137 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Model\\BookModel.py', reloading
+2020-04-13 14:26:10,190 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-13 14:26:12,174 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-13 14:26:12,261 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-13 14:26:12,307 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-13 14:26:18,671 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [13/Apr/2020 14:26:18] "[35m[1mGET /book/query?bookId HTTP/1.1[0m" 500 -
+2020-04-13 14:26:23,955 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [13/Apr/2020 14:26:23] "[35m[1mGET /book/query?bookId HTTP/1.1[0m" 500 -
+2020-04-13 14:26:49,259 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Model\\BookModel.py', reloading
+2020-04-13 14:26:49,371 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-13 14:26:52,155 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-13 14:26:52,261 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-13 14:26:52,319 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-13 14:26:52,821 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [13/Apr/2020 14:26:52] "[35m[1mGET /book/query?bookId HTTP/1.1[0m" 500 -
+2020-04-13 14:38:53,717 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Model\\BookModel.py', reloading
+2020-04-13 14:38:53,755 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-13 14:38:55,715 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-13 14:38:55,804 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-13 14:38:55,857 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-13 14:39:11,687 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Model\\BookModel.py', reloading
+2020-04-13 14:39:11,726 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-13 14:39:14,975 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-13 14:39:16,476 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-13 14:39:16,610 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-13 14:39:16,652 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-13 14:39:23,740 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [13/Apr/2020 14:39:23] "[35m[1mGET /book/query?bookId HTTP/1.1[0m" 500 -
+2020-04-13 14:40:14,548 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Controller\\BookController.py', reloading
+2020-04-13 14:40:14,597 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-13 14:40:16,850 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-13 14:40:16,923 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-13 14:40:16,960 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-13 14:40:18,176 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [13/Apr/2020 14:40:18] "[35m[1mGET /book/query?bookId HTTP/1.1[0m" 500 -
+2020-04-13 14:44:03,565 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [13/Apr/2020 14:44:03] "[35m[1mGET /book/query?bookId HTTP/1.1[0m" 500 -
+2020-04-13 14:44:36,481 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Controller\\BookController.py', reloading
+2020-04-13 14:44:36,552 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-13 14:44:39,322 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-13 14:44:39,458 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-13 14:44:39,517 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-13 14:44:39,937 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [13/Apr/2020 14:44:39] "[35m[1mGET /book/query?bookId HTTP/1.1[0m" 500 -
+2020-04-13 14:44:50,368 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-13 14:44:52,200 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-13 14:44:52,306 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-13 14:44:52,354 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-13 14:44:52,602 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [13/Apr/2020 14:44:52] "[35m[1mGET /book/query?bookId HTTP/1.1[0m" 500 -
+2020-04-13 14:45:54,480 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\main.py', reloading
+2020-04-13 14:45:54,519 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-13 14:46:01,556 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-13 14:46:02,991 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-13 14:46:03,062 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-13 14:46:03,105 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-13 14:46:06,362 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [13/Apr/2020 14:46:06] "[35m[1mGET /book/query?bookId HTTP/1.1[0m" 500 -
+2020-04-13 14:47:06,721 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
+2020-04-13 14:47:08,339 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - WARNING:  * Debugger is active!
+2020-04-13 14:47:08,476 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Debugger PIN: 610-436-901
+2020-04-13 14:47:08,530 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2020-04-13 14:47:10,588 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO: 127.0.0.1 - - [13/Apr/2020 14:47:10] "[35m[1mGET /book/query?bookId HTTP/1.1[0m" 500 -
+2020-04-13 14:48:05,068 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Detected change in 'C:\\pydemo\\Model\\BookModel.py', reloading
+2020-04-13 14:48:05,121 - C:\pydemo\venv\lib\site-packages\werkzeug\_internal.py[line:113] - INFO:  * Restarting with stat
