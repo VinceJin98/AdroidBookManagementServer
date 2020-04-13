@@ -1,1 +1,5 @@
 # AdroidBookManagementServer
+
+说明
+1.作为android客户端得服务端
+2.仅有远端数据库功能
