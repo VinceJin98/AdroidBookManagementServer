@@ -80,15 +80,24 @@ class BookModel(object):
             if lend != 2 :
                 BookLists.append(query_t_bookinfo_user(lend=lend))
             
+            BookList = []
+            if type(BookLists) == 'tuple':
+                BookTuple = BookLists[0]
+                for i in range(len(BookTuple)):
+                    BookList.append(BookTuple[i])
+
+            print(BookList)
             #求交集 
-            BookList = BookLists[0]
+            '''
+            BookListIndex = BookLists[0]
             for i in BookLists:
-                BookList = BookList & i            
+                BookListIndex = BookListIndex & i     
+            '''       
 
             #求实例的列表
             UserBooks = []
             for i in BookList:
-                UserBooks.append(BookModel.QueryBook(bookId=i))     
+                UserBooks.append(BookModel.QueryBook(bookId=5))     
 
-            return UserBooks
+            return BookModel().__dict__
         

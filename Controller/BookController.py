@@ -155,8 +155,9 @@ class BookController(object):
             一个字典（也可能是字典列表），用户信息，之后封装为JSON发出
     """
     def BookQueryController(self,request):
-        print(request['bookId'])
+        #print(request['bookId'])
         #提取出所有可能的查询参数
+        print(request)
         bookId = request.get('bookId',default=0)
         userId = request.get('userId',default=0)
         isbn = request.get('isbn',default=None)

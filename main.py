@@ -61,7 +61,6 @@ def BookChangeInfo():
 
 @app.route('/book/query',methods=['GET','post'])
 def BookQuery():
-    print(request.values['bookId'])
     res = BookController().BookQueryController(request.values)
     return jsonify(res)
 

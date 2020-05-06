@@ -101,7 +101,7 @@ def query_t_userinfo(userId=0,userName=None):
         sql = 'SELECT * FROM t_userinfo WHERE userId=%s'
         return execute_sql(sql,(userId,))
     elif userName:
-        sql = 'SELECT userId FROM t_userinfo WHERE userName=%s'
+        sql = 'SELECT * FROM t_userinfo WHERE userName=%s'
         return execute_sql(sql,(userName,))    
 
 '''

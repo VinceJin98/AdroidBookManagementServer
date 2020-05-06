@@ -16,6 +16,7 @@ class UserController(object):
         passWord = request['passWord']
 
         userId = self.model.login(userName,passWord)
+        print(userId)
         res = self.view.UserLoginView(userId)
         return res 
 

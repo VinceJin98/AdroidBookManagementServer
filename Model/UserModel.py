@@ -23,8 +23,9 @@ class UserModel(object):
     @staticmethod
     def login(userName,passWord):
         result = query_t_userinfo(userName=userName)
+        print(result[0][0],result[0][1])
         try:
-            if result[0][1] == passWord:
+            if result[0][2] == passWord:
                 return result[0][0]
             else: #密码不匹配
                 return 0

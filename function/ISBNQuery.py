@@ -32,5 +32,5 @@ def ISBNQuery(ISBNCode):
     
 if __name__ == "__main__":
     ISBNCode = '9787302512608'
-    ISBNQuery(ISBNCode)
+    print(ISBNQuery(ISBNCode))
     pass
